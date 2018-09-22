@@ -140,3 +140,4 @@ C:\Users\Nick\Desktop\C# Programs\Vidly\Vidly\Vidly\bin\System.Web.Http.xml
 C:\Users\Nick\Desktop\C# Programs\Vidly\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
 C:\Users\Nick\Desktop\C# Programs\Vidly\Vidly\Vidly\bin\AutoMapper.dll
 C:\Users\Nick\Desktop\C# Programs\Vidly\Vidly\Vidly\bin\AutoMapper.xml
+C:\Users\Nick\Desktop\C# Programs\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
